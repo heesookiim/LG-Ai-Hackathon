@@ -1,5 +1,6 @@
 # LG-Ai-Hackathon
 The official Hackathon website is in Korean. To check, [click the link](https://dacon.io/en/competitions/official/236055/overview/description).
+Hosted by: LG AI Research
 ## Topic
 Develop an AI model that classifies the quality status of products based on real-world data from smart factories.
 
@@ -38,4 +39,3 @@ X_1 ~ X_2875: Variables extracted from the manufacturing process and anonymized 
 
 ## Result
 **Achieved a ranking of 34th out of a total of 925 participating teams.**
-Hosted by: LG AI Research.
