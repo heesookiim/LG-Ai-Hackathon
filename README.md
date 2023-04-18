@@ -20,18 +20,19 @@ The dataset consists of three files: train.csv, test.csv, and sample_submission.
 - PRODUCT_CODE: The code number assigned to the product ('A_31', 'T_31', 'O_31' are the possible values).
 X_1 ~ X_2875: Variables extracted from the manufacturing process and anonymized for security reasons.
 ### test.csv:
-PRODUCT_ID: The unique ID of the product.
-TIMESTAMP: The timestamp when the product entered the manufacturing process.
-LINE: The type of manufacturing line the product entered ('T050304', 'T050307', 'T100304', 'T100306', 'T010306', 'T010305' are the possible values).
-PRODUCT_CODE: The code number assigned to the product ('A_31', 'T_31', 'O_31' are the possible values).
-X_1 ~ X_2875: Variables extracted from the manufacturing process and anonymized for security reasons.
-sample_submission.csv:
-PRODUCT_ID: The unique ID of the product.
-Y_Class: The predicted product quality status.
+- PRODUCT_ID: The unique ID of the product.
+- TIMESTAMP: The timestamp when the product entered the manufacturing process.
+- LINE: The type of manufacturing line the product entered ('T050304', 'T050307', 'T100304', 'T100306', 'T010306', 'T010305' are the possible values).
+- PRODUCT_CODE: The code number assigned to the product ('A_31', 'T_31', 'O_31' are the possible values).
+- X_1 ~ X_2875: Variables extracted from the manufacturing process and anonymized for security reasons.
+### sample_submission.csv:
+- PRODUCT_ID: The unique ID of the product.
+- Y_Class: The predicted product quality status.
 0: Below the acceptable threshold (unsuitable)
 1: Acceptable
 2: Above the acceptable threshold (unsuitable)
-Please note that the dataset contains actual data from the manufacturing process, and some variables (X variables) have been anonymized for security reasons. 'LINE' and 'PRODUCT_CODE' have the same possible values in both the train and test datasets.
+
+**Please note that the dataset contains actual data from the manufacturing process, and some variables (X variables) have been anonymized for security reasons. 'LINE' and 'PRODUCT_CODE' have the same possible values in both the train and test datasets.**
 
 
 
