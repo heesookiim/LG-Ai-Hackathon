@@ -1,5 +1,5 @@
 # LG-Ai-Hackathon 
-To access the details of the official Hackathon, please click on the following link: [click the link (https://dacon.io/en/competitions/official/236055/overview/description).<br />
+To access the details of the official Hackathon, please click on the following link: [click the link] (https://dacon.io/en/competitions/official/236055/overview/description).<br />
 #### Hosted by: LG AI Research
 ## Topic
 Develop an AI model that classifies the quality status of products based on real-world data from smart factories.
