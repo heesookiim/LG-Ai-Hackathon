@@ -3,8 +3,7 @@
 ## Topic
 Develop an AI model that classifies the quality status of products based on real-world data from smart factories.
 
-## Background
-Dataset Information:
+## Dataset Information:
 
 The dataset consists of three files: train.csv, test.csv, and sample_submission.csv.
 
