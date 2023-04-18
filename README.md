@@ -37,5 +37,5 @@ X_1 ~ X_2875: Variables extracted from the manufacturing process and anonymized 
 
 
 ## Result
-achieved a ranking of 34th out of a total of 925 participating teams.
+**Achieved a ranking of 34th out of a total of 925 participating teams.**
 Hosted by: LG AI Research.
