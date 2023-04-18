@@ -2,7 +2,11 @@
 To access the details of the official Hackathon, please click on the following link: 
 [click the link](https://dacon.io/en/competitions/official/236055/overview/description)
 <br />
+<br />
+Achieved a ranking of **34th** out of a total of **925** participating teams 
 <br /> Hosted by: LG AI Research
+
+
 ## Topic
 Develop an AI model that classifies the quality status of products based on real-world data from smart factories.
 
@@ -35,9 +39,3 @@ X_1 ~ X_2875: Variables extracted from the manufacturing process and anonymized 
 2: Above the acceptable threshold (unsuitable)
 
 **Please note that the dataset contains actual data from the manufacturing process, and some variables (X variables) have been anonymized for security reasons. 'LINE' and 'PRODUCT_CODE' have the same possible values in both the train and test datasets.**
-
-
-
-
-## Result
-**Achieved a ranking of 34th out of a total of 925 participating teams.** 
