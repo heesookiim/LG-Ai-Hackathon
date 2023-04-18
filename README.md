@@ -1,12 +1,12 @@
 # LG-Ai-Hackathon 
-The official Hackathon website is in Korean. To check, [click the link](https://dacon.io/en/competitions/official/236055/overview/description).<br />
+To access the details of the official Hackathon, please click on the following link: [click the link (https://dacon.io/en/competitions/official/236055/overview/description).<br />
 #### Hosted by: LG AI Research
 ## Topic
 Develop an AI model that classifies the quality status of products based on real-world data from smart factories.
 
 ## Dataset Information:
 
-- The dataset consists of three files: 'train.csv', 'test.csv', and 'sample_submission.csv'.
+- The dataset consists of three files: `train.csv`, `test.csv`, and `sample_submission.csv`.
 
 ### train.csv:
 - PRODUCT_ID: The unique ID of the product.
