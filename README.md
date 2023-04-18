@@ -6,7 +6,7 @@ Develop an AI model that classifies the quality status of products based on real
 
 ## Dataset Information:
 
-The dataset consists of three files: 'train.csv', 'test.csv', and 'sample_submission.csv'.
+- The dataset consists of three files: 'train.csv', 'test.csv', and 'sample_submission.csv'.
 
 ### train.csv:
 - PRODUCT_ID: The unique ID of the product.
