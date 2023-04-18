@@ -4,7 +4,9 @@ To access the details of the official Hackathon, please click on the following l
 <br />
 <br />
 Achieved a ranking of **34th** out of a total of **925** participating teams 
-<br /> Hosted by: LG AI Research
+<br />
+<br /> 
+Hosted by: LG AI Research
 
 
 ## Topic
