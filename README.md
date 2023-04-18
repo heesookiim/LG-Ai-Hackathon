@@ -9,7 +9,7 @@ Dataset Information:
 The dataset consists of three files: train.csv, test.csv, and sample_submission.csv.
 
 ### train.csv:
-PRODUCT_ID: The unique ID of the product.
+- PRODUCT_ID: The unique ID of the product.
 - Y_Class: The target variable representing the quality status of the product.
 0: Below the acceptable threshold (unsuitable)
 1: Acceptable
